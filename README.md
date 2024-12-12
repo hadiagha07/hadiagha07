@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-## اطلاعات شخصی
+
 ```json
-{
+const me = {
     "name": "Hadi",
     "birthDay": "January 2007",
-    "skills": "Python, Django, MySQL, PHP,...",
+    "skills": "Python, Django, MySQL, PHP, Git, Telegram Bot, DRF",
     "location": "Bushehr, Iran"
-}
+};
