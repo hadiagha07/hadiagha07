@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 const me = {
     "name": "Hadi",
     "birthDay": "January 2007",
-    "skills": "Python, Django, MySQL, PHP, Git, Telegram Bot, DRF",
+    "skills": "Python, Django, MySQL, PHP,...",
     "location": "Bushehr, Iran"
 };
