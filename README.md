@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+شش
+me = {
+  name: "Hadi",
+  birthDay: "January 2007",
+  skills: "python, Django, MySQL, PHP,...",
+  location: "Bushehr, Iran"
+  }
