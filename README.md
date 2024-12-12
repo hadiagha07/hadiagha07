@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
--->
-شش
-me = {
-  name: "Hadi",
-  birthDay: "January 2007",
-  skills: "python, Django, MySQL, PHP,...",
-  location: "Bushehr, Iran"
-  }
+-->شش
+```json
+const me = {
+    "name": "Hadi",
+    "birthDay": "January 2007",
+    "skills": "Python, Django, MySQL, PHP, Git, Telegram Bot, DRF",
+    "location": "Bushehr, Iran"
+};
