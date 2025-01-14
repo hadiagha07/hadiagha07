@@ -8,4 +8,4 @@
     "location": "Bushehr, Iran"
 }
 
-<img src="https://github-readme-stats.vercel.app/api?username=hadiagha07&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=hadiaqha07&show_icons=true&theme=radical" alt="Hadi's GitHub Stats" />
