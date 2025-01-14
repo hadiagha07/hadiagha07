@@ -7,3 +7,5 @@
     "skills": "Python, Django, MySQL, Selenium, RESTfull api,...",
     "location": "Bushehr, Iran"
 }
+
+<img scr='https://github-readme-stats.vercel.app/api?username=hadiagha07&show_icons=true&theme=radical'/>
