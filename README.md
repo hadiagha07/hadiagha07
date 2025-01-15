@@ -27,6 +27,11 @@ Passionate about coding, building back-end systems, and exploring new technologi
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hadiagha07&show_icons=true&theme=radical" alt="Hadi's GitHub Stats" width="500"/>
+---
+
+## 📫 How to Reach Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hadiagha7)
+
 
 ---
 
@@ -34,7 +39,7 @@ Passionate about coding, building back-end systems, and exploring new technologi
 ```json
 {
     "name": "Hadi",
-    "birthDay": "January 2007",
+    "birthDay": "January 2006",
     "skills": "Python, Django, MySQL, Selenium, RESTful API, HTML, CSS, JavaScript",
     "location": "Bushehr, Iran"
 }
